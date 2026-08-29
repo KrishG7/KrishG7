@@ -7,6 +7,14 @@
 - 📫 **How to reach me:** krishgupta3879@gmail.com
 
 
+## 🚀 Top Projects
+
+- **[TriNetra - Agri-Intelligence Command Center](https://github.com/KrishG7/TriNetra-Farmers-Stack):** A 3-Layer AI Stack fusing Google Earth Engine (Satellite), Soil Health APIs (Gemini 1.5), and Vertex AI/PyTorch (Market Prediction) to empower Indian farmers. Built with Next.js 14 and FastAPI.
+- **[SysCV - System Call Visualizer](https://github.com/KrishG7/SysCV):** A visual, web-based Linux syscall tracer built with Go, React, and `ptrace`. Features a live React Flow kernel interaction graph tracing C programs in a sandboxed Docker container.
+- **[Brahm-Kosh - Codebase Intelligence Engine](https://github.com/KrishG7/Brahm-Kosh):** A static analysis engine + 3D visualizer that parses 13 programming languages into a universal code model to detect monoliths, compute complexity scores, and perform multi-hop impact analysis.
+- **[Wait Zero - Smart Clinic Booking](https://github.com/KrishG7/smart-clinic-booking):** An offline-first healthcare management platform featuring live token queues, GPS check-ins, and a hybrid local-SQLite to cloud-MySQL synchronization engine. Built with Node.js, Express, and Flutter.
+- **[Stock Market Anomaly Detection](https://github.com/KrishG7/stock-anomaly-detection):** An unsupervised anomaly detection pipeline for US equities using a consensus of a threshold rule layer, K-Means clustering, and walk-forward DBSCAN with strict data leakage discipline.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-gupta007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishgupta3879@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KrishGupta0007/)
 
