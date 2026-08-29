@@ -9,6 +9,7 @@
 
 ## 🚀 Top Projects
 
+- **[Athena - AI Cancer Copilot](https://github.com/KrishG7/Athena):** An AI second-opinion copilot for rare cancers. Uses a FalkorDB knowledge graph for clinical evidence retrieval and AutoDock Vina structural protein docking for computational drug-response predictions.
 - **[TriNetra - Agri-Intelligence Command Center](https://github.com/KrishG7/TriNetra-Farmers-Stack):** A 3-Layer AI Stack fusing Google Earth Engine (Satellite), Soil Health APIs (Gemini 1.5), and Vertex AI/PyTorch (Market Prediction) to empower Indian farmers. Built with Next.js 14 and FastAPI.
 - **[SysCV - System Call Visualizer](https://github.com/KrishG7/SysCV):** A visual, web-based Linux syscall tracer built with Go, React, and `ptrace`. Features a live React Flow kernel interaction graph tracing C programs in a sandboxed Docker container.
 - **[Brahm-Kosh - Codebase Intelligence Engine](https://github.com/KrishG7/Brahm-Kosh):** A static analysis engine + 3D visualizer that parses 13 programming languages into a universal code model to detect monoliths, compute complexity scores, and perform multi-hop impact analysis.
