@@ -1,36 +1,82 @@
-# 💫 About Me:
-**GitHub Username:** KrishG7
-- 🔭 **I’m currently working on:** sharpening my DSA skills on LeetCode, diving into Linux Ethical Hacking, and exploring advanced AI/ML architectures.
-- 🌱 **I’m currently learning:** Digital Image Processing (MATLAB), Computer Networks, Ethical Hacking in Linux, and Theory of Computation.
-- 👯 **I’m looking to collaborate on:** Backend engineering, Systems-level architecture, and Open-Source AI/ML models.
-- 💬 **Ask me about:** Python, Deep Learning (PyTorch), Node.js, and Cybersecurity.
-- 📫 **How to reach me:** krishgupta3879@gmail.com
+<div align="center">
 
+# Krish Gupta
 
-## 🚀 Top Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Systems+Engineer+%C2%B7+ML+Researcher;Linux+Kernel+Tracing+(ptrace)+%26+Sandboxing;Statistical+Downscaling+%26+Extreme-Value+Modeling;Structural+Proteomics+%26+Graph+Retrieval;Real-Time+Computer+Vision+(30%2B+FPS))](https://git.io/typing-svg)
 
-- **[Athena - AI Cancer Copilot](https://github.com/healers-second-look/Athena):** An AI second-opinion copilot for rare cancers. Uses a FalkorDB knowledge graph for clinical evidence retrieval and AutoDock Vina structural protein docking for computational drug-response predictions.
-- **[TriNetra - Agri-Intelligence Command Center](https://github.com/KrishG7/TriNetra-Farmers-Stack):** A 3-Layer AI Stack fusing Google Earth Engine (Satellite), Soil Health APIs (Gemini 1.5), and Vertex AI/PyTorch (Market Prediction) to empower Indian farmers. Built with Next.js 14 and FastAPI.
-- **[SysCV - System Call Visualizer](https://github.com/KrishG7/SysCV):** A visual, web-based Linux syscall tracer built with Go, React, and `ptrace`. Features a live React Flow kernel interaction graph tracing C programs in a sandboxed Docker container.
-- **[Brahm-Kosh - Codebase Intelligence Engine](https://github.com/KrishG7/Brahm-Kosh):** A static analysis engine + 3D visualizer that parses 13 programming languages into a universal code model to detect monoliths, compute complexity scores, and perform multi-hop impact analysis.
-- **[Wait Zero - Smart Clinic Booking](https://github.com/KrishG7/smart-clinic-booking):** An offline-first healthcare management platform featuring live token queues, GPS check-ins, and a hybrid local-SQLite to cloud-MySQL synchronization engine. Built with Node.js, Express, and Flutter.
-- **[Stock Market Anomaly Detection](https://github.com/KrishG7/stock-anomaly-detection):** An unsupervised anomaly detection pipeline for US equities using a consensus of a threshold rule layer, K-Means clustering, and walk-forward DBSCAN with strict data leakage discipline.
-- **[Video-Tracer - Real-Time Multi-Object Tracking](https://github.com/KrishG7/Video-Tracer):** A modular computer vision pipeline for video ingestion, automated dataset curation, and YOLOv8 training. Implements real-time tracking (ByteTrack/BoT-SORT) featuring trajectory tracing and virtual ROI tripwires.
+<p align="center">
+  <a href="https://linkedin.com/in/krish-gupta007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a>
+  <a href="mailto:krishgupta3879@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="24" alt="Email" /></a>
+  <a href="https://leetcode.com/u/KrishGupta0007/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="24" alt="LeetCode" /></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-gupta007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishgupta3879@gmail.com) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KrishGupta0007/)
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
+---
+
+### `> whoami`
+
+```bash
+$ krish --profile --inspect
+{
+  "focus": [
+    "Kernel-space introspection & container runtime isolation",
+    "Extreme-value distributions & meteorological ML post-processing",
+    "Graph-traversal drug discovery & structural docking",
+    "AST-based multi-language dependency graphs"
+  ],
+  "runtime_invariants": {
+    "profiling": "Flamegraphs over intuition",
+    "reproducibility": "Deterministic pipelines; zero temporal lookahead leakage",
+    "stack": "C / Go for systems; Python / PyTorch for numerical pipelines"
+  }
+}
+```
+
+---
+
+### 🚀 **Core Competencies**
+
+| Domain | Expertise |
+|--------|-----------|
+| **Systems Engineering** | Linux kernel tracing (`ptrace`), container isolation, runtime instrumentation |
+| **ML & Scientific Computing** | PyTorch, extreme-value theory, statistical downscaling, anomaly detection |
+| **Computer Vision** | Real-time multi-object tracking, 30+ FPS pipelines, YOLO-based detection |
+| **Bioinformatics** | Structural proteomics, graph neural networks, drug discovery, molecular docking |
+| **Backend & Infrastructure** | Go, Python, deterministic data pipelines, performance profiling |
+
+---
+
+### 🏗️ **Notable Projects**
+
+- **[Athena - AI Cancer Copilot](https://github.com/healers-second-look/Athena):** Clinical AI second-opinion system using FalkorDB knowledge graphs for rare cancer evidence retrieval
+- **[TriNetra - Agri-Intelligence Stack](https://github.com/KrishG7/TriNetra-Farmers-Stack):** Satellite + soil health APIs + Gemini LLM fusion for precision agriculture
+- **[SysCV - Kernel Syscall Visualizer](https://github.com/KrishG7/SysCV):** Go + React + `ptrace` live kernel interaction tracer with flow-based visualization
+- **[Brahm-Kosh - Code Intelligence Engine](https://github.com/KrishG7/Brahm-Kosh):** Multi-language AST parser into universal code model + 3D codebase visualizer
+- **[Wait Zero - Healthcare Booking](https://github.com/KrishG7/smart-clinic-booking):** Offline-first clinic management with live token queues and GPS check-ins
+- **[Stock Anomaly Detection](https://github.com/KrishG7/stock-anomaly-detection):** Consensus ensemble for unsupervised US equities anomaly detection
+- **[Video-Tracer - Real-Time MOT](https://github.com/KrishG7/Video-Tracer):** YOLOv8-based multi-object tracking with automated dataset curation
+
+---
+
+### 📊 **GitHub Stats**
+
 ![](https://github-readme-stats.shion.dev/api?username=KrishG7&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=KrishG7&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrishG7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 **GitHub Trophies**
+
 ![](https://github-profile-trophy.vercel.app/?username=KrishG7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+---
+
+### ✍️ **Dev Wisdom**
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+<p align="center">
+  <i>Obsessed with deterministic systems, flamegraphs, and reproducible research.</i>
+</p>
